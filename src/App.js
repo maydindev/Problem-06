@@ -1,3 +1,5 @@
+import "./app.css"
+
 // Her bir butonun üzerine, içerikte yazan eyleme karşılık gelen satır içi/inline stiller ekleyin
 export default function ButtonVariants() {
   return (
